@@ -100,7 +100,7 @@ py -m ipykernel install --user --name=env --display-name "Python 3.12 (ECBD)"
       <td align="center"><code>01</code></td>
       <td>Práctica 1: <em>Nombre de la actividad</em></td>
       <td align="center"><code>N/A</code></td>
-      <td align="center">🟡 Pendiente</td>
+      <td align="center">Completada</td>
     </tr>
   </tbody>
 </table>
