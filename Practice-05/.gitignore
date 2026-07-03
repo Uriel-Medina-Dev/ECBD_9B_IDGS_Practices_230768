@@ -1,0 +1,15 @@
+ 
+# Entornos virtuales (No subir librerías locales de pip)
+env/
+env_nuevo/
+venv/
+
+# Archivos temporales y cachés de Python
+__pycache__/
+*.pyc
+
+# Archivos ocultos de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Configuraciones locales de VS Code (Opcional)
+.vscode/
