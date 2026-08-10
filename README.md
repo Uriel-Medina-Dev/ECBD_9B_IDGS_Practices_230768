@@ -89,7 +89,6 @@ py -m ipykernel install --user --name=env --display-name "Python 3.12 (ECBD)"
 <table width="100%">
   <thead>
     <tr>
-      <th width="8%" align="center">ID</th>
       <th width="45%" align="left">Actividad Académica</th>
       <th width="27%" align="center">Core Stack / Potenciador</th>
       <th width="20%" align="center">Estatus Técnico</th>
@@ -97,9 +96,13 @@ py -m ipykernel install --user --name=env --display-name "Python 3.12 (ECBD)"
   </thead>
   <tbody>
     <tr>
-      <td align="center"><code>01</code></td>
       <td>Práctica 1: <em>Nombre de la actividad</em></td>
       <td align="center"><code>N/A</code></td>
+      <td align="center">Completada</td>
+    </tr>
+    <tr>
+      <td>Práctica 10: <em>3D Scatter Plot con Sprites de Pokemons</em></td>
+      <td align="center"><code>50</code></td>
       <td align="center">Completada</td>
     </tr>
   </tbody>
