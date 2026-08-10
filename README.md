@@ -105,6 +105,11 @@ py -m ipykernel install --user --name=env --display-name "Python 3.12 (ECBD)"
       <td align="center"><code>50</code></td>
       <td align="center">Completada</td>
     </tr>
+    <tr>
+      <td>Práctica 11: <em>Algoritmos de Análisis No Supervisado, Clientes de Centros Comerciales</em></td>
+      <td align="center"><code>50</code></td>
+      <td align="center">Completada</td>
+    </tr>
   </tbody>
 </table>
 
