@@ -50,10 +50,16 @@ El DataFrame contiene cinco criaturas artificiales de generación 7. Para evitar
 
 ## Ejecución
 
-Desde la raíz del repositorio, activa el entorno virtual:
+Desde la raíz del repositorio, activa el entorno virtual con:
 
 ```powershell
 .\Practice-06\env\Scripts\Activate.ps1
+```
+
+Si la terminal se encuentra dentro de `Practice-10`, utiliza:
+
+```powershell
+..\Practice-06\env\Scripts\Activate.ps1
 ```
 
 Después abre Jupyter Lab:
